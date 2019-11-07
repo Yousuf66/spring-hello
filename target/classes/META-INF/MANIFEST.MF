@@ -3,25 +3,25 @@ Implementation-Title: javabrains course api
 Implementation-Version: 0.0.1-SNAPSHOT
 Built-By: Yousuff Siddiqui
 Implementation-Vendor-Id: io.javabrains.springbootquickstart
-Class-Path: lib/spring-boot-starter-web-1.5.9.RELEASE.jar lib/spring-b
- oot-starter-1.5.9.RELEASE.jar lib/spring-boot-1.5.9.RELEASE.jar lib/s
- pring-boot-autoconfigure-1.5.9.RELEASE.jar lib/spring-boot-starter-lo
- gging-1.5.9.RELEASE.jar lib/logback-classic-1.1.11.jar lib/logback-co
- re-1.1.11.jar lib/slf4j-api-1.7.25.jar lib/jcl-over-slf4j-1.7.25.jar 
- lib/jul-to-slf4j-1.7.25.jar lib/log4j-over-slf4j-1.7.25.jar lib/sprin
- g-core-4.3.13.RELEASE.jar lib/snakeyaml-1.17.jar lib/spring-boot-star
- ter-tomcat-1.5.9.RELEASE.jar lib/tomcat-embed-core-8.5.23.jar lib/tom
- cat-annotations-api-8.5.23.jar lib/tomcat-embed-el-8.5.23.jar lib/tom
- cat-embed-websocket-8.5.23.jar lib/hibernate-validator-5.3.6.Final.ja
- r lib/validation-api-1.1.0.Final.jar lib/jboss-logging-3.3.1.Final.ja
- r lib/classmate-1.3.4.jar lib/jackson-databind-2.8.10.jar lib/jackson
- -annotations-2.8.0.jar lib/jackson-core-2.8.10.jar lib/spring-web-4.3
- .13.RELEASE.jar lib/spring-aop-4.3.13.RELEASE.jar lib/spring-beans-4.
- 3.13.RELEASE.jar lib/spring-context-4.3.13.RELEASE.jar lib/spring-web
- mvc-4.3.13.RELEASE.jar lib/spring-expression-4.3.13.RELEASE.jar
+Class-Path: io/spring-boot-starter-web-1.5.9.RELEASE.jar io/spring-boo
+ t-starter-1.5.9.RELEASE.jar io/spring-boot-1.5.9.RELEASE.jar io/sprin
+ g-boot-autoconfigure-1.5.9.RELEASE.jar io/spring-boot-starter-logging
+ -1.5.9.RELEASE.jar io/logback-classic-1.1.11.jar io/logback-core-1.1.
+ 11.jar io/slf4j-api-1.7.25.jar io/jcl-over-slf4j-1.7.25.jar io/jul-to
+ -slf4j-1.7.25.jar io/log4j-over-slf4j-1.7.25.jar io/spring-core-4.3.1
+ 3.RELEASE.jar io/snakeyaml-1.17.jar io/spring-boot-starter-tomcat-1.5
+ .9.RELEASE.jar io/tomcat-embed-core-8.5.23.jar io/tomcat-annotations-
+ api-8.5.23.jar io/tomcat-embed-el-8.5.23.jar io/tomcat-embed-websocke
+ t-8.5.23.jar io/hibernate-validator-5.3.6.Final.jar io/validation-api
+ -1.1.0.Final.jar io/jboss-logging-3.3.1.Final.jar io/classmate-1.3.4.
+ jar io/jackson-databind-2.8.10.jar io/jackson-annotations-2.8.0.jar i
+ o/jackson-core-2.8.10.jar io/spring-web-4.3.13.RELEASE.jar io/spring-
+ aop-4.3.13.RELEASE.jar io/spring-beans-4.3.13.RELEASE.jar io/spring-c
+ ontext-4.3.13.RELEASE.jar io/spring-webmvc-4.3.13.RELEASE.jar io/spri
+ ng-expression-4.3.13.RELEASE.jar
 Build-Jdk: 1.8.0_211
 Implementation-URL: http://projects.spring.io/spring-boot/course-api/
 Created-By: Maven Integration for Eclipse
 Implementation-Vendor: Pivotal Software, Inc.
-Main-Class: io.javabrains.springbootstarter.CourseApiApp
+Main-Class: javabrains.springbootstarter.CourseApiApp
 
