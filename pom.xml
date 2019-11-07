@@ -31,8 +31,8 @@
         <archive>
           <manifest>
             <addClasspath>true</addClasspath>
-            <classpathPrefix>io/</classpathPrefix>
-            <mainClass>javabrains.springbootstarter.CourseApiApp</mainClass>
+      
+            <mainClass>io.javabrains.springbootstarter.CourseApiApp</mainClass>
           </manifest>
         </archive>
       </configuration>
